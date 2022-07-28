@@ -4,9 +4,9 @@ Release version of the pyhip program.
 
 Written by Paul Daubin and Branko Ster.
 
-With the help of
+With the help of the laboratory of parallel processing and adaptive systems.
 
-Simulates the fonctionnement of a MIPS CPU and shows it on a gui
+Simulates the fonctionnement of a MIPS CPU and shows it on a graphical interface.
 
 # Usage 
 
