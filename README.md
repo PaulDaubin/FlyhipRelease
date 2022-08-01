@@ -14,7 +14,7 @@ Windows : Download the package and execute the executable at the root of the pro
 
 Linux : Download the package and execute the script at the root of the project 
 
-MacOS : TODO
+MacOS : Planned, when I get a mac. You'll have to emulate another version, compile yourself, or use the web version
 
 You then have to open the file selector (keybound to O) and provide a VALID assembly file.
 
