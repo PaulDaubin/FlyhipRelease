@@ -1,6 +1,6 @@
-# Pyhip Release
+# FlyHip Release
 
-Release version of the pyhip program.
+Release version of the FlyHip program.
 
 Written by Paul Daubin and Branko Ster.
 
