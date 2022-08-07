@@ -1,4 +1,4 @@
-bypass = 1
+bypass = 0
 delayedBranches = 0
 
 cacheOption = separate
