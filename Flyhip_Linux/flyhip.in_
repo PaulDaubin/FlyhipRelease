@@ -1,0 +1,18 @@
+bypass = 0
+delayedBranches = 0
+
+cacheOption = separate
+
+instrCacheType = direct
+instrCacheSize = 64
+instrBlockSize = 16
+instrAssociativity = 1
+instrMissPenalty = 4
+instrReplacementPolicy = LRU
+
+dataCacheType = set-associative
+dataCacheSize = 1288
+dataBlockSize = 16
+dataAssociativity = 2
+dataMissPenalty = 55
+dataReplacementPolicy = LRU
